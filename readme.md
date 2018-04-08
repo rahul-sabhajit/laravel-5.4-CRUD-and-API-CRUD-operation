@@ -10,7 +10,9 @@
 
 ### Setup
 1. Simply download the project and run following command.
+
  *. composer dump-autoload -o
+ 
  *. composer update --no-scripts
  
 2. Import databae (you will get DB in database folder)
