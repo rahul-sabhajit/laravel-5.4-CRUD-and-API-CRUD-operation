@@ -7,6 +7,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 ## laravel-5.4-Simple-CRUD-and-API-CRUD-operation
+
 ### Setup
 1. Simply download the project and run following command.
  *. composer dump-autoload -o
