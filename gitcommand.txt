@@ -1,0 +1,71 @@
+git-version-controll-command
+I Love git because
+
+-history
+
+-collaboration
+
+-feature branch
+
+Command
+{
+
+echo "# git-version-controll-command" >> README.md
+
+git init
+
+git add README.md
+
+git commit -m "first commit"
+
+git remote add origin https://github.com/rahul-sabhajit/git-version-controll-command.git
+
+git push -u origin master
+
+}
+
+git config --global user.name "rahul"
+
+git config --global user.email "rahulptl69@gmail.com"
+
+goto site folder-
+
+git init
+
+git clone https://github.com/mycoder/testcode.git
+
+git remote -v
+
+git remote add origin https://github.com/rahul-sabhajit/git-version-controll-command.git
+
+git push -u origin master
+
+or
+
+git push origin master
+
+git status
+
+git add index.html
+
+or
+
+git add -A (tracj all the changes)
+
+git commit -m "msg initial commit"
+
+git push -u origin master
+
+git checkout --.(get all deleted or edited code)
+
+git checkout msite(switch branch)
+
+or
+
+git checkout -b msite
+
+git merge msite
+
+git branch -d msite
+
+use -D for deleting before merging is just used for security region.
