@@ -20,7 +20,7 @@
 3. How to run api
  open postman and run following command
  i- get employee details
- * http://localhost/laravel5.6/public/api/getEmpdetails
+ * http://localhost/laravel5.4/public/api/getEmpdetails
  
  ii- get particular employee details- parameter(id)
   * http://localhost/laravel5.4/public/api/getEmpdetails/1
@@ -30,7 +30,7 @@
   * http://localhost/laravel5.4/public/api/postEmpdetails
   
  iv- update particular employee details- parameter(id, emp_name, empphoto )
-  * http://localhost/laravel5.6/public/api/updateEmpdetails/1
+  * http://localhost/laravel5.4/public/api/updateEmpdetails/1
   1 is id.
 
  iv- update particular employee details- parameter(id)
