@@ -18,7 +18,9 @@
 2. Import databae (you will get DB in database folder)
  
 3. How to run api
+
  open postman and run following command
+ 
  i- get employee details
  * http://localhost/laravel5.4/public/api/getEmpdetails
  
